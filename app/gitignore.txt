@@ -1,0 +1,5 @@
+/app.zip
+app/secciones/cerrar.php
+app/secciones/estudiantes(no).php
+app/secciones/vista_estudiantes(no).php
+app/configuraciones/cnfg.php
